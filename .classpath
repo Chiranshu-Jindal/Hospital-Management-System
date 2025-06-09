@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/home/chiranshu/Downloads/Jars/mysql connector/mysql-connector-java-5.0.8-bin-g.jar"/>
+	<classpathentry kind="lib" path="/home/chiranshu/Downloads/Jars/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="/home/chiranshu/Downloads/Jars/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/chiranshu/Downloads/Jars/servlet api/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/home/chiranshu/Downloads/Jars/mysql connector/mysql-connector-java-9.2.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
